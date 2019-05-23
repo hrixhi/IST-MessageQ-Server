@@ -1,0 +1,1 @@
+zip ./dist/istkt-api.zip -r index.js package.json package-lock.json dist.sh .elasticbeanstalk
